@@ -1,0 +1,5 @@
+/* Tailwind CSS - utility classes available throughout the app */
+@import "tailwindcss";
+
+/* Custom CSS - add your own styles below or import additional CSS files */
+@import "./styles/custom.css";
